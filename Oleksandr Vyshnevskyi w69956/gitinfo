@@ -1,0 +1,7 @@
+git push
+Polecenie git push służy do wypychania zmian z lokalnego repozytorium do zdalnego repozytorium.
+git commit
+tworzy migawkę zmian w projekcie, które obecnie znajdują się w przechowalni
+git checkout
+Polecenie git checkout służy do przełączania się między gałęziami lub przywracania plików z historii.
+
