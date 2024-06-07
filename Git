@@ -1,0 +1,3 @@
+git checkout działa na trzech odrębnych typach obiektów: plikach, commitach i gałęziach. Niezależnie od definicji terminu„checkout” pojęcie „wyewidencjonowania” powszechnie stosuje się do określania czynności wykonania polecenia git checkout.
+
+Diffing is a function that takes two input data sets and outputs the changes between them. git diff is a multi-use Git command that when executed runs a diff function on Git data sources
